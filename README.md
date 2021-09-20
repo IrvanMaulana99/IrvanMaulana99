@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://sarang-it.com/author/irvangarut/](https://sarang-it.com/author/irvangarut/)
 
-- 📫 How to reach me **lenovo.irvan99@gmail.com**
-
 - 📄 Know about my experiences [https://irvanmaulana99.github.io/](https://irvanmaulana99.github.io/)
 
 <h3 align="left">Connect with me:</h3>
