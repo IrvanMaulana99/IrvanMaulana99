@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Irvan Maulana</h1>
-<h3 align="center">IT Support, Administrator ,Front End Dev & Designer</h3>
+<h3 align="center">IT Support, Administrator ,Front End Dev & UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irvanmaulana99&label=Profile%20views&color=0e75b6&style=flat-square" alt="irvanmaulana99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irvanmaulana99" alt="irvanmaulana99" /></a> </p>
 
-- 🔭 I’m currently working on [Sarang IT](https://sarang-it.com)
-
-- 📝 I regularly write articles on [https://sarang-it.com/author/irvangarut/](https://sarang-it.com/author/irvangarut/)
-
-- 📄 Know about my experiences [https://irvanmaulana99.github.io/](https://irvanmaulana99.github.io/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/irvan-maulana-everel4869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irvan-maulana-everel4869" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/irvan-maulana4869" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irvan-maulana4869" height="30" width="40" /></a>
 <a href="https://instagram.com/irvangarut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irvangarut" height="30" width="40" /></a>
 </p>
 
